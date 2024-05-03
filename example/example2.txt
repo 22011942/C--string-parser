@@ -1,0 +1,11 @@
+set var1 "The";
+set var2 "pesky";
+set var3 "feline";
+set var4 "sat,";
+set var5 "for what is hopefully the last time,";
+set var6 "on the mat.";
+set longvar var1 + SPACE;
+append longvar var2 + SPACE + var3 + SPACE + var4 + SPACE;
+append longvar var5 + SPACE + var6 + NEWLINE;
+list;
+exit;

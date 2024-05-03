@@ -1,0 +1,13 @@
+----------------------------------------
+  159.341 Assignment 1 Semester 1 2023  
+  Submitted by: Daniel Playne, 12345678 
+----------------------------------------
+Identifier List(7):
+var1 : The
+var2 : pesky
+var3 : feline
+var4 : sat,
+var5 : for what is hopefully the last time,
+var6 : on the mat.
+longvar : The pesky feline sat, for what is hopefully the last time, on the mat.
+

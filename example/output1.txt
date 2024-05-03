@@ -1,0 +1,21 @@
+----------------------------------------
+  159.341 Assignment 1 Semester 1 2023  
+  Submitted by: Daniel Playne, 12345678 
+----------------------------------------
+The cat sat on the mat by itself.
+Wordcount: 8
+Words:
+The
+cat
+sat
+on
+the
+mat
+by
+itself
+Length: 33
+Identifier List(3):
+one : The cat
+two : sat on the mat
+sentence : The cat sat on the mat by itself.
+cat The 
